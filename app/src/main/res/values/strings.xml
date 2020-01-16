@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DigitDetect</string>
+    <string name="detect_number">Detect Number</string>
+</resources>
